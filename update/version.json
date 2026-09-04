@@ -1,7 +1,7 @@
 {
-  "version": "0.24.0.3",
-  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.3/PaulinhoMaesta_VS_v0.24.0.3.zip",
-  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.3/PaulinhoMaesta_VS_v0.24.0.3.zip",
+  "version": "0.24.0.4",
+  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.4/PaulinhoMaesta_VS_v0.24.0.4.zip",
+  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.4/PaulinhoMaesta_VS_v0.24.0.4.zip",
   "sha256": "aa13cc1e4b56b1635c8361b3f0b6c3abbe783ae641cf55f694335c49d6649828",
-  "notes": "Atualizador online consolidado para atualizações automáticas no macOS."
+  "notes": "Ajuste de interface: corrigida a sobreposição do status Pronto para executar sobre Cues pelos marcadores."
 }
