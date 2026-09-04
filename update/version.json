@@ -1,7 +1,7 @@
 {
-  "version": "0.24.0.1",
-  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.1/PaulinhoMaesta_VS_v0.24.0.1.zip",
-  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.1/PaulinhoMaesta_VS_v0.24.0.1.zip",
-  "sha256": "9bfbe2cc6d4cd75a59a78c72eecdf3fab952ab505c32a34e7569f88751fbd5bb",
-  "notes": "Distribuição limpa com instalador único para Windows e macOS."
+  "version": "0.24.0.2",
+  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.2/PaulinhoMaesta_VS_v0.24.0.2.zip",
+  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.2/PaulinhoMaesta_VS_v0.24.0.2.zip",
+  "sha256": "bfff18bc040742422133cc6733d5220eeb0240842769ea914f6429a9aa6dcde5",
+  "notes": "Atualizador online consolidado e corrigido para macOS."
 }
