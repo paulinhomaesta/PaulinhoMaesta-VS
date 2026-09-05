@@ -1,7 +1,7 @@
 {
-  "version": "0.26.0.0",
-  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.26.0.0/PaulinhoMaesta_VS_v0.26.0.0.zip",
-  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.26.0.0/PaulinhoMaesta_VS_v0.26.0.0.zip",
-  "sha256": "a7ce5461a4a421526907f2e8ee0e54c789cbe9a5fada11c1b2d5505828d4289f",
-  "notes": "Implementado auto loop."
+  "version": "1.0.0",
+  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v1.0.0/PaulinhoMaesta_VS_v1.0.0.zip",
+  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v1.0.0/PaulinhoMaesta_VS_v1.0.0.zip",
+  "sha256": "bc5d4f0dc440b82675888d957df338e3da0340d18df512e01934d077b6542d23",
+  "notes": "PaulinhoMaestá VS 1.0.0: versão oficial com Modo Show, Controle Remoto, Tuner por região, cronômetro, Cues, persistência por projeto, instância única e auditoria de estabilidade."
 }
