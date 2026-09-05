@@ -1,7 +1,7 @@
 {
-  "version": "0.24.0.7",
-  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.7/PaulinhoMaesta_VS_v0.24.0.7.zip",
-  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.7/PaulinhoMaesta_VS_v0.24.0.7.zip",
-  "sha256": "4288d259e33f07ef6f293f7680e5afecb8368fb0b40002983154ad5979dff8c3",
+  "version": "0.25.1.0",
+  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.25.1.0/PaulinhoMaesta_VS_v0.25.1.0.zip",
+  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.25.1.0/PaulinhoMaesta_VS_v0.25.1.0.zip",
+  "sha256": "2018f5f07574669b7c5cc63e5c3250de39f3e6730a5c838fc069540ae113b29c",
   "notes": "Incorporado os audios para as Cues."
 }
