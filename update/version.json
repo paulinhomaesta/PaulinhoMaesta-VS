@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v1.0.2/PaulinhoMaesta_VS_v1.0.2.zip",
-  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v1.0.2/PaulinhoMaesta_VS_v1.0.2.zip",
-  "sha256": "63346a4b9dfef088ab75d771805ad23aaec0dd303352410c32787f52d9dac0ec",
-  "notes": "Atualização técnica de validação do updater; sem alterações funcionais."
+  "version": "1.0.3",
+  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v1.0.3/PaulinhoMaesta_VS_v1.0.3_RC_Clean.zip",
+  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v1.0.3/PaulinhoMaesta_VS_v1.0.3_RC_Clean.zip",
+  "sha256": "90ea34c1a43c5b4522aad81b20107c98ab9a62674a18afe54db13ee8113f6cc6",
+  "notes": "Versão 1.0.3 para validação final do sistema de atualização automática."
 }
