@@ -1,7 +1,7 @@
 {
-  "version": "0.24.0.4",
-  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.4/PaulinhoMaesta_VS_v0.24.0.5.zip",
-  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.4/PaulinhoMaesta_VS_v0.24.0.5.zip",
+  "version": "0.24.0.5",
+  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.5/PaulinhoMaesta_VS_v0.24.0.5.zip",
+  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.24.0.5/PaulinhoMaesta_VS_v0.24.0.5.zip",
   "sha256": "5f304691195516d03b1e37a5c92e5aac43e15e0aa513445e5970d189c12fe7af",
   "notes": "Ajustes para evitar duplicidade de cues."
 }
