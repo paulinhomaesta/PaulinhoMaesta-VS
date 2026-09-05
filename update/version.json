@@ -1,7 +1,7 @@
 {
-  "version": "0.25.1.1",
-  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.25.1.1/PaulinhoMaesta_VS_v0.25.1.1.zip",
-  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.25.1.1/PaulinhoMaesta_VS_v0.25.1.1.zip",
-  "sha256": "4d137e0ff9894887c5c542907e5679ab1e691d6c4582cf6f56d67c43a24d979d",
+  "version": "0.25.1.2",
+  "windows_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.25.1.2/PaulinhoMaesta_VS_v0.25.1.2.zip",
+  "macos_url": "https://github.com/paulinhomaesta/PaulinhoMaesta-VS/releases/download/v0.25.1.2/PaulinhoMaesta_VS_v0.25.1.2.zip",
+  "sha256": "d1c9c567687497a359ab592bf62a353f71a87fb223070c7160cf800cf7b60d2f",
   "notes": "Corrigido a implementação dos cues compostos."
 }
